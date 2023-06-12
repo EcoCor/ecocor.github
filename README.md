@@ -1,1 +1,1 @@
-# ecocor.github
+![Logo](./ecocor.svg)
